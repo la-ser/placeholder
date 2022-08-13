@@ -1,3 +1,3 @@
 # <title>Placeholder</title>
-# <span style="color: red">Placeholder / hier kommt noch was hin..</span>
+# <span style="color: red">Placeholder / feature comming soon..</span>
 by laser Inc.
